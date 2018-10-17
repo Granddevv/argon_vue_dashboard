@@ -15,7 +15,8 @@
     "vue-flatpickr-component": "^7.0.4",
     "vue-lazyload": "^1.2.6",
     "vue-router": "^3.0.1",
-    "vue2-transitions": "^0.2.3"
+    "vue2-transitions": "^0.2.3",
+    "yarn": "^1.10.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-rc.10",
