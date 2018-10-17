@@ -25,22 +25,22 @@
                     <h4 class="mb-0 font-weight-light">Let's get in touch on any of these platforms.</h4>
                 </div>
                 <div class="col-lg-6 text-lg-center btn-wrapper">
-                    <a target="_blank" href="https://twitter.com/creativetim"
+                    <a target="_blank" href="https://twitter.com/granddevv"
                        class="btn btn-neutral btn-icon-only btn-twitter btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Follow us">
                         <i class="fa fa-twitter"></i>
                     </a>
-                    <a target="_blank" href="https://www.facebook.com/creativetim"
+                    <a target="_blank" href="https://www.facebook.com/granddevv"
                        class="btn btn-neutral btn-icon-only btn-facebook btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Like us">
                         <i class="fa fa-facebook-square"></i>
                     </a>
-                    <a target="_blank" href="https://dribbble.com/creativetim"
+                    <a target="_blank" href="https://dribbble.com/granddevv"
                        class="btn btn-neutral btn-icon-only btn-dribbble btn-lg btn-round" data-toggle="tooltip"
                        data-original-title="Follow us">
                         <i class="fa fa-dribbble"></i>
                     </a>
-                    <a target="_blank" href="https://github.com/creativetimofficial"
+                    <a target="_blank" href="https://github.com/granddevvofficial"
                        class="btn btn-neutral btn-icon-only btn-github btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Star on Github">
                         <i class="fa fa-github"></i>
@@ -68,7 +68,7 @@
                             <a href="http://blog.creative-tim.com" class="nav-link" target="_blank">Blog</a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
+                            <a href="https://github.com/granddevvofficial/argon-design-system/blob/master/LICENSE.md"
                                class="nav-link" target="_blank">MIT License</a>
                         </li>
                     </ul>
